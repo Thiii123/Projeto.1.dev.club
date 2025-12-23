@@ -245,9 +245,9 @@ a:nth-child(5):hover {
 
         img {
             position: absolute;
-            width: 420px;
-            height: 430px;
-            top: 45%;
+            width: 370px;
+            height: 370px;
+            top: 55%;
             left: 10px;
             margin: 0;
 
@@ -287,7 +287,7 @@ a:nth-child(5):hover {
 
         p {
             position: relative;
-            left: 40px;
+            left: 70px;
             font-size: 15px;
             width: 80vw;
             height: 100px;
@@ -299,7 +299,7 @@ a:nth-child(5):hover {
           
             position: relative;
             top: 10px;
-            left: 80px;
+            left: 120px;
             margin: 0;
 
         }
